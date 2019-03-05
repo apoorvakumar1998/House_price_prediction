@@ -1,2 +1,2 @@
 # House_price_prediction
-Predicting the House of price using multivariate linear regression
+Predicting the  price of houses using multivariate linear regression
